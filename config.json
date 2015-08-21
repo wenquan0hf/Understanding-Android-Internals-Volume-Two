@@ -1,13 +1,4 @@
 {
-    "name": "深入理解Android 卷II",
-    "introduction": "深入理解Android 卷2",
-    "title": "深入理解Android 卷2",
-    "keywords": "深入理解Android 卷2",
-    "description": "深入理解Android 卷2 电子版",
-    "path": {
-        "content": "正文的文件夹路径，相对路径绝对路径皆可，默认根目录，非必填",
-        "images": "引用图片的文件夹路径，相对路径绝对路径皆可，默认为根目录下的 images 文件夹，非必填",
-        "readme": "关于页面的路径，相对路径绝对路径皆可，默认根目录下的 README.md，非必填",
-        "toc": "目录的路径，相对路径绝对路径皆可，默认根目录下的 TOC.md，非必填"
-        }
+    "name": "深入理解 Android 卷II",
+    "introduction": "经典畅销书《深入理解 Android：卷I》的姊妹卷，深刻揭示 Java Framework 的实现原理和工作机制"
 }
