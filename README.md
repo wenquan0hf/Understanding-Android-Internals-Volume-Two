@@ -1,7 +1,5 @@
 # 深入理解 Android 卷II
 
-![cover](cover/cover.png)
-
 - 第1章，介绍了阅读本书所需要做的一些准备工作，包括Android 4.0源码下载和编译、搭建Eclipse环境，以及如何调试Android系统进程（system_process）等。
 - 第2章，介绍了Java Binder和MessageQueue的实现。
 - 第3章，介绍了SystemServer，并分析了图1中第5部分所包含的Service的工作原理。这些服务包括EntropyService、DropboxManagerService、DiskStatsService、DeviceStorageMonitorService、SamplingProfilerService和ClipboardService。
